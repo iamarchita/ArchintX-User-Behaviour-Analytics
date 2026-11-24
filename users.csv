@@ -1,0 +1,121 @@
+user_id,user_segment,city,registration_date,acquisition_source,device_type,is_verified
+U0001,Student,Chennai,2026-08-09,Direct,Desktop,True
+U0002,Job Seeker,Bengaluru,2026-09-08,Referral,Tablet,True
+U0003,Student,Coimbatore,2026-08-19,College Community,Desktop,False
+U0004,Student,Chennai,2026-10-06,Organic Search,Mobile,True
+U0005,Job Seeker,Chennai,2026-09-16,College Community,Mobile,True
+U0006,Internship Seeker,Tiruchirappalli,2026-09-15,Referral,Desktop,False
+U0007,Internship Seeker,Hyderabad,2026-10-10,Organic Search,Mobile,True
+U0008,Developer,Pune,2026-09-19,LinkedIn,Mobile,True
+U0009,Job Seeker,Pune,2026-08-09,Organic Search,Mobile,True
+U0010,Developer,Coimbatore,2026-10-17,LinkedIn,Desktop,True
+U0011,Internship Seeker,Hyderabad,2026-08-15,Organic Search,Tablet,True
+U0012,Developer,Coimbatore,2026-08-07,Instagram,Mobile,False
+U0013,Internship Seeker,Hyderabad,2026-10-01,Direct,Tablet,True
+U0014,Fresher,Bengaluru,2026-09-02,Direct,Mobile,True
+U0015,Student,Bengaluru,2026-09-19,LinkedIn,Mobile,True
+U0016,Job Seeker,Coimbatore,2026-10-23,Instagram,Desktop,False
+U0017,Developer,Pune,2026-09-06,Referral,Desktop,True
+U0018,Fresher,Bengaluru,2026-08-07,Direct,Desktop,True
+U0019,Student,Madurai,2026-09-11,College Community,Tablet,True
+U0020,Job Seeker,Madurai,2026-08-30,Instagram,Desktop,True
+U0021,Fresher,Bengaluru,2026-10-24,Direct,Desktop,True
+U0022,Student,Bengaluru,2026-09-26,Organic Search,Desktop,True
+U0023,Developer,Hyderabad,2026-10-09,Organic Search,Mobile,True
+U0024,Internship Seeker,Pune,2026-10-15,Referral,Tablet,True
+U0025,Developer,Tiruchirappalli,2026-08-22,Direct,Desktop,True
+U0026,Job Seeker,Hyderabad,2026-10-14,Referral,Mobile,True
+U0027,Internship Seeker,Hyderabad,2026-10-11,Direct,Tablet,True
+U0028,Developer,Tiruchirappalli,2026-09-12,LinkedIn,Mobile,True
+U0029,Job Seeker,Salem,2026-09-20,Organic Search,Mobile,True
+U0030,Student,Madurai,2026-08-04,Direct,Mobile,True
+U0031,Developer,Coimbatore,2026-09-09,Instagram,Desktop,True
+U0032,Internship Seeker,Salem,2026-10-16,College Community,Desktop,True
+U0033,Internship Seeker,Chennai,2026-09-21,Direct,Tablet,True
+U0034,Student,Hyderabad,2026-08-09,Direct,Desktop,True
+U0035,Student,Hyderabad,2026-09-24,Instagram,Mobile,True
+U0036,Developer,Chennai,2026-10-28,Direct,Tablet,True
+U0037,Fresher,Madurai,2026-10-29,College Community,Mobile,True
+U0038,Fresher,Bengaluru,2026-10-13,Referral,Desktop,True
+U0039,Job Seeker,Chennai,2026-10-22,College Community,Desktop,True
+U0040,Developer,Chennai,2026-08-12,Organic Search,Desktop,True
+U0041,Fresher,Bengaluru,2026-10-29,Organic Search,Mobile,True
+U0042,Internship Seeker,Coimbatore,2026-09-07,Organic Search,Tablet,True
+U0043,Developer,Coimbatore,2026-08-31,College Community,Mobile,True
+U0044,Job Seeker,Salem,2026-10-09,College Community,Mobile,True
+U0045,Fresher,Tiruchirappalli,2026-10-04,Referral,Tablet,True
+U0046,Job Seeker,Hyderabad,2026-10-24,Instagram,Tablet,True
+U0047,Fresher,Salem,2026-09-14,College Community,Desktop,True
+U0048,Student,Bengaluru,2026-08-22,Referral,Mobile,True
+U0049,Fresher,Chennai,2026-09-24,College Community,Tablet,True
+U0050,Job Seeker,Bengaluru,2026-08-31,Organic Search,Mobile,False
+U0051,Student,Bengaluru,2026-09-02,Organic Search,Mobile,True
+U0052,Fresher,Coimbatore,2026-09-11,College Community,Mobile,False
+U0053,Fresher,Salem,2026-08-24,Referral,Tablet,True
+U0054,Job Seeker,Salem,2026-10-11,Referral,Desktop,True
+U0055,Developer,Bengaluru,2026-08-08,Organic Search,Mobile,False
+U0056,Developer,Pune,2026-08-12,Instagram,Desktop,True
+U0057,Developer,Chennai,2026-10-04,Direct,Tablet,True
+U0058,Student,Chennai,2026-09-19,Instagram,Tablet,True
+U0059,Fresher,Coimbatore,2026-08-02,Referral,Mobile,True
+U0060,Job Seeker,Salem,2026-09-29,Referral,Desktop,True
+U0061,Job Seeker,Hyderabad,2026-08-13,Instagram,Mobile,True
+U0062,Student,Salem,2026-09-26,College Community,Mobile,True
+U0063,Student,Chennai,2026-10-10,Organic Search,Mobile,True
+U0064,Job Seeker,Tiruchirappalli,2026-08-17,Instagram,Desktop,True
+U0065,Job Seeker,Tiruchirappalli,2026-09-30,Organic Search,Mobile,True
+U0066,Developer,Chennai,2026-10-11,Instagram,Desktop,False
+U0067,Developer,Hyderabad,2026-10-29,Instagram,Tablet,True
+U0068,Internship Seeker,Salem,2026-09-25,Referral,Mobile,True
+U0069,Fresher,Bengaluru,2026-08-14,Organic Search,Tablet,True
+U0070,Internship Seeker,Chennai,2026-09-12,Direct,Desktop,True
+U0071,Student,Chennai,2026-08-25,College Community,Desktop,True
+U0072,Internship Seeker,Madurai,2026-09-09,Organic Search,Tablet,True
+U0073,Student,Madurai,2026-09-18,Organic Search,Tablet,True
+U0074,Student,Bengaluru,2026-10-25,Instagram,Mobile,True
+U0075,Internship Seeker,Bengaluru,2026-10-16,College Community,Tablet,True
+U0076,Student,Coimbatore,2026-09-02,Instagram,Tablet,False
+U0077,Internship Seeker,Pune,2026-09-18,LinkedIn,Mobile,True
+U0078,Fresher,Bengaluru,2026-08-29,LinkedIn,Desktop,True
+U0079,Job Seeker,Hyderabad,2026-08-11,Instagram,Desktop,True
+U0080,Student,Chennai,2026-10-05,Instagram,Tablet,True
+U0081,Internship Seeker,Coimbatore,2026-08-29,Organic Search,Tablet,False
+U0082,Job Seeker,Hyderabad,2026-10-27,Referral,Desktop,True
+U0083,Student,Bengaluru,2026-08-13,LinkedIn,Desktop,True
+U0084,Job Seeker,Salem,2026-08-28,College Community,Tablet,True
+U0085,Fresher,Chennai,2026-10-26,Direct,Tablet,False
+U0086,Fresher,Coimbatore,2026-09-27,Referral,Desktop,True
+U0087,Student,Coimbatore,2026-10-21,Direct,Tablet,False
+U0088,Job Seeker,Hyderabad,2026-08-17,LinkedIn,Tablet,True
+U0089,Job Seeker,Pune,2026-08-27,Referral,Tablet,False
+U0090,Fresher,Salem,2026-08-14,LinkedIn,Mobile,True
+U0091,Student,Tiruchirappalli,2026-10-16,LinkedIn,Mobile,False
+U0092,Student,Pune,2026-08-11,Referral,Tablet,True
+U0093,Fresher,Madurai,2026-08-02,Direct,Desktop,True
+U0094,Internship Seeker,Tiruchirappalli,2026-09-06,College Community,Mobile,True
+U0095,Student,Coimbatore,2026-10-06,Direct,Mobile,True
+U0096,Internship Seeker,Chennai,2026-08-01,LinkedIn,Tablet,True
+U0097,Internship Seeker,Madurai,2026-08-03,Instagram,Mobile,True
+U0098,Student,Hyderabad,2026-10-20,LinkedIn,Mobile,True
+U0099,Fresher,Bengaluru,2026-09-03,Direct,Mobile,False
+U0100,Student,Pune,2026-08-05,College Community,Desktop,True
+U0101,Internship Seeker,Madurai,2026-10-29,Referral,Mobile,False
+U0102,Job Seeker,Tiruchirappalli,2026-09-14,Organic Search,Mobile,True
+U0103,Fresher,Tiruchirappalli,2026-10-24,Direct,Tablet,True
+U0104,Job Seeker,Hyderabad,2026-08-26,Referral,Tablet,True
+U0105,Student,Tiruchirappalli,2026-10-27,Organic Search,Desktop,True
+U0106,Job Seeker,Bengaluru,2026-10-23,Instagram,Desktop,True
+U0107,Fresher,Bengaluru,2026-09-07,Referral,Mobile,True
+U0108,Job Seeker,Tiruchirappalli,2026-08-03,LinkedIn,Desktop,True
+U0109,Student,Hyderabad,2026-10-14,LinkedIn,Tablet,True
+U0110,Internship Seeker,Tiruchirappalli,2026-09-21,Direct,Tablet,True
+U0111,Fresher,Chennai,2026-10-27,Organic Search,Desktop,True
+U0112,Job Seeker,Hyderabad,2026-09-15,Organic Search,Mobile,False
+U0113,Internship Seeker,Tiruchirappalli,2026-09-16,LinkedIn,Tablet,False
+U0114,Fresher,Tiruchirappalli,2026-09-14,College Community,Tablet,True
+U0115,Student,Tiruchirappalli,2026-08-14,College Community,Mobile,True
+U0116,Fresher,Chennai,2026-10-05,Direct,Desktop,True
+U0117,Student,Bengaluru,2026-08-01,LinkedIn,Desktop,True
+U0118,Student,Pune,2026-08-17,College Community,Desktop,True
+U0119,Student,Hyderabad,2026-09-08,College Community,Desktop,True
+U0120,Developer,Pune,2026-10-16,Instagram,Tablet,True

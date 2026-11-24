@@ -1,0 +1,9 @@
+event_id,user_id,event_timestamp,event_type,course_id,session_id,duration_seconds,platform
+EV000052,U0070,2026-08-04 22:57:00,unknown_event,C003,S00072,1333.0,Web
+EV000377,U0043,2026-11-02 08:08:00,unknown_event,C012,S00104,359.0,iOS
+EV000560,U0057,2026-08-16 10:14:00,unknown_event,C008,S00634,0.0,Android
+EV001115,U0083,2026-08-23 10:06:00,unknown_event,C005,S00461,456.0,iOS
+EV001214,U0103,2026-08-14 07:08:00,unknown_event,,S00659,0.0,Web
+EV001347,U0099,2026-09-01 22:14:00,unknown_event,C007,S00307,0.0,Android
+EV001397,U0010,2026-10-07 20:26:00,unknown_event,,S00617,0.0,iOS
+EV001865,U0050,2026-10-17 12:17:00,unknown_event,C010,S00051,996.0,Web

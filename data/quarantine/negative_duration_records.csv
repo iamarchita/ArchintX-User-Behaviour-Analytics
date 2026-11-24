@@ -1,0 +1,13 @@
+event_id,user_id,event_timestamp,event_type,course_id,session_id,duration_seconds,platform,issue
+EV000001,U0039,2026-09-25 22:39:00,complete_lesson,C007,S00292,-31,iOS,Negative duration
+EV000068,U0042,2026-08-25 21:28:00,view_course,C010,S00346,-31,iOS,Negative duration
+EV000194,U0068,2026-09-10 12:41:00,enroll_course,C005,S00286,-24,Web,Negative duration
+EV000572,U0103,2026-08-04 12:38:00,complete_course,C003,S00383,-36,Android,Negative duration
+EV000769,U0019,2026-09-19 16:55:00,start_lesson,C004,S00023,-96,Android,Negative duration
+EV000804,U0044,2026-11-08 22:15:00,login,,S00278,-91,Android,Negative duration
+EV000866,U0004,2026-11-04 21:35:00,login,,S00123,-83,Web,Negative duration
+EV001704,U0011,2026-09-23 10:07:00,login,,S00532,-86,Web,Negative duration
+EV001938,U0023,2026-09-19 17:17:00,start_lesson,C012,S00126,-46,iOS,Negative duration
+EV001941,U0063,2026-08-13 10:40:00,login,,S00319,-25,Android,Negative duration
+EV002006,U0038,2026-09-25 19:07:00,logout,,S00377,-23,Android,Negative duration
+EV002048,U0009,2026-10-29 19:29:00,complete_course,C002,S00408,-33,Android,Negative duration

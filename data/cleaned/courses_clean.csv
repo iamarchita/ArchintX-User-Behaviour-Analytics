@@ -1,0 +1,13 @@
+course_id,course_name,category,difficulty,duration_hours
+C001,Python Programming,Career Skills,Advanced,11
+C002,SQL Fundamentals,Data Analytics,Beginner,26
+C003,Data Analytics,Web Development,Advanced,10
+C004,Web Development,Web Development,Advanced,25
+C005,Machine Learning,Data Analytics,Advanced,16
+C006,Excel for Analytics,Career Skills,Intermediate,10
+C007,Power BI,Programming,Intermediate,13
+C008,Communication Skills,Career Skills,Beginner,18
+C009,Java Basics,Web Development,Advanced,24
+C010,Career Readiness,Career Skills,Intermediate,20
+C011,Django Development,Web Development,Intermediate,29
+C012,Statistics,Data Analytics,Advanced,27
